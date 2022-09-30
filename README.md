@@ -20,8 +20,25 @@
       Hey there
   <img src="https://media.giphy.com/media/ATPQEE7oyFeFXwWF40/giphy.gif" width="40px"/>
   </h1>
-  </P>
+  </p>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a Beginner Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, and now i'm discovering the exciting world of programming.
+
+- :telescope: I'm learning to be a software developer and choosing my own technology stack.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time I write pet projects in Python or Html+Css+JS.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
 
