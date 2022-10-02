@@ -42,7 +42,9 @@ I am a Beginner Python Backend Developer <img src="https://media.giphy.com/media
 
 ---
 
-<h3>My main stack of technologies:<!h3>
+<h3>
+  - My main stack of technologies:
+ <!h3>
 <p><!p>
 <p><!p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -51,7 +53,9 @@ I am a Beginner Python Backend Developer <img src="https://media.giphy.com/media
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
   
-<h3>Also my skills include a basic knowledge of:<!h3>
+<h3>
+  - Also my skills include a basic knowledge of:
+  <!h3>
 <p><!p>
 <p><!p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -60,6 +64,22 @@ I am a Beginner Python Backend Developer <img src="https://media.giphy.com/media
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"  title="Flask" alt="flask" width="40" height="40"/>&nbsp;
+  
+  ---
+
+### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=t0nn1x&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0nn1x&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ---
+  <div align="center">
+  Consider giving my work a ⭐ to show some ❤️
+  </div>
+  
+  ---
+  <em>
+    “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+  </em>
 
 
 
