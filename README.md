@@ -66,6 +66,11 @@ I am a Beginner Python Backend Developer <img src="https://media.giphy.com/media
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"  title="Flask" alt="flask" width="40" height="40"/>&nbsp;
   
   ---
+  
+  ### :books: Certificates :
+    [![SoloLearn](https://www.sololearn.com/certificates/course/en/21820452/1024/landscape/png)](https://www.sololearn.com/certificates/course/en/21820452/1024/landscape/png)
+
+  ---
 
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=t0nn1x&theme=dark&background=000000)](https://git.io/streak-stats)
