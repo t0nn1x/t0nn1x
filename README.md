@@ -45,7 +45,7 @@ I am a Beginner Python Backend Developer <img src="https://media.giphy.com/media
 ### :books: Confirmation of knowledge  :
 
 - [Udemy profile](https://ua.udemy.com/user/anton-hrobust-2/)
-- [SoloLearn](https://www.sololearn.com/profile/24794027)
+- [SoloLearn profile](https://www.sololearn.com/profile/24794027)
 ---
 
 <h3>
