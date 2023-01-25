@@ -42,6 +42,12 @@ I am a Beginner Python Backend Developer <img src="https://media.giphy.com/media
 
 ---
 
+### :books: Confirmation of knowledge  :
+
+- [Udemy profile](https://ua.udemy.com/user/anton-hrobust-2/)
+- [SoloLearn](https://www.sololearn.com/profile/24794027)
+---
+
 <h3>
   - My main stack of technologies:
  <!h3>
@@ -67,13 +73,10 @@ I am a Beginner Python Backend Developer <img src="https://media.giphy.com/media
   
   ---
   
-  ### :books: Certificates :
-    
-
-  ---
 
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=t0nn1x&theme=dark&background=000000)](https://git.io/streak-stats)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0nn1x&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ---
