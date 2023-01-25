@@ -68,7 +68,7 @@ I am a Beginner Python Backend Developer <img src="https://media.giphy.com/media
   ---
   
   ### :books: Certificates :
-    [![SoloLearn](https://www.sololearn.com/certificates/course/en/21820452/1024/landscape/png)](https://www.sololearn.com/certificates/course/en/21820452/1024/landscape/png)
+    
 
   ---
 
