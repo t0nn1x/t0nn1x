@@ -32,7 +32,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Web Developer from Ukraine, specialized in creating dynamic and interactive web applications.
 
-- :telescope: I'm skilled in PHP8, Laravel, JavaScript, and various database technologies including SQL, MySQL, PostgreSQL, and MongoDB.
+- :telescope: I'm skilled in PHP8, Laravel, Symfony, JavaScript, and various database technologies including SQL, MySQL, PostgreSQL, and MongoDB.
 - :seedling: Currently exploring advanced Docker techniques for containerization and deployment.
 - :zap: In my free time, I enjoy contributing to open source projects and staying up-to-date with the latest web development trends.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-antonkhrobust-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-khrobust-4426b126a/)
